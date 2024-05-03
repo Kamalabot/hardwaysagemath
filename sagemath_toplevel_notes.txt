@@ -1,0 +1,11 @@
+Following is the daywise notes on the SageMath and Computational Mathematics course 
+that is taken in Yt Playlist https://www.youtube.com/playlist?list=PLyqSpQzTE6M-4YsNKnIOJeR0PVUfy8qoQ
+
+Repo can be cloned with git@github.com:Kamalabot/hardwaysagemath.git
+
+03/05 
+
+- Started reviewing the Basics of Python & Installation introduced by the course
+- Explored the installed older SageMath Binaries for Windows from https://github.com/sagemath/sage-windows/releases
+Note the Repo containing the Windows Binaries is archived in 2023.
+- 
