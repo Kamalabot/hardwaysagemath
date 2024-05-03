@@ -8,4 +8,60 @@ Repo can be cloned with git@github.com:Kamalabot/hardwaysagemath.git
 - Started reviewing the Basics of Python & Installation introduced by the course
 - Explored the installed older SageMath Binaries for Windows from https://github.com/sagemath/sage-windows/releases
 Note the Repo containing the Windows Binaries is archived in 2023.
-- 
+- Reviewing the videos from the above playlist, and make notes of new concepts, in this notes
+
+lesson4: Using Sagemath as Adv Calculator: [https://youtu.be/Nojc2Bbl8Pc?si=ZPl6E31o5ZDr3XVR]
+- Introduce CMath & Math module
+- Explore perm, and comb function from math module 
+- How perm and comb of numbers is represented using factorial function 
+- Introduce cmath for finding sqrt(-1)
+- Solving quadratic eqn and finding the roots, using -b (+|-) sqrt(b^2 - 4ac) / 2a 
+- Heron's formula for calculating Triangle Area is introduced, sqrt(s*(s-a)*(s-b)*(s-b))
+
+Lesson 5 to 10: Introduction to Python Data Structures, loops, conditionals and modules 
+- List intro same as those learnt in basic of python. [https://youtu.be/jMShssechMI?si=jh0WCbkN-gImxXi-]
+- Tuples, Dicts and Sets same as those learnt in basics of python. [https://youtu.be/KrPifJU8k7U?si=7G7xRrfmMGQ6pkCc]
+- Functions and Branching, involves defining functions, creating branches using ideas learnt in earlier vids  [https://youtu.be/ZykfXXzjnq4?si=VxHRronDHKkFVTYo]
+    > Used branching to find if given sides is that of a triangle, and proceeds further 
+    introducing different types of triangles using the sides
+    > Shows how the quad eqn can be solved, by looking at various condition like a = 0, b = 0 or b^2-4ac is <= 0
+- For loops in python: [https://youtu.be/6TgEcDzryNo?si=PUbLqtZT54S1GpDN]
+    > Introduces loops for calculating the retuns on investment over a period of time
+    > Break, Continue statements are introduced
+    > List Comprehensions introduced
+        * Euler Phi function calculation is introduced
+        * Checking if a given num is prime, using multiple conditions
+        * Calculating Pi using MonteCarlo method, the method is explained using x and y co-ord generated randomly
+            >> x^2 + y^2 < 1 & count how many are meeting conditions
+        * printing the poisson triangle of '*' and changing the shapes of the triangles
+    > Exercises provides opportunities to work on defining functions, and writing experiments
+- While loops in Python: [https://youtu.be/L1ma0qVIVmw?si=vYiGdnETIqS5Ft2l]
+    > When iteration is unknown, the while loop is used, along with break keyword
+    > Introduced while loop version of earlier probs solved with for-loop
+        * Using while loop to calculate value of e = 2.718
+    > else can be used in both for and while loop (This is new)
+        * finding prime in range of numbers, and if none found use else to provide alternate route
+        * implementing newton-raphson method, using the constraints to bail out when tol < 10e-5
+- Creating Modules: [https://youtu.be/NN8kgx4ENJ8?si=0tQGm0IHLP7uUdPJ]
+    > discusses about the module, and the way to import functions. Following that touches numpy
+Jumping ahead to SageMath install, [4 videos are skipped, that are related to matplotlib, scipy, python classes] 
+- Sagemath Intro: [https://youtu.be/Pmx-RdCHoXw?si=27yMcuL3V15eSGaV]
+    > CAS : Computer Algebra Software 
+    > Sage is a platform, that helps to pull other open source software under one umbrella
+    > https://doc.sagemath.org/html/en/reference/spkg/
+    > Discussion on the appln of the SageMath, and variety of application area.
+- SageMath Integers : [https://youtu.be/nZTdCz_ESCU?si=ZIVwtNXpvc-XW2N8]
+    > Its similar to python only. however the methods are different 
+    > There are many mathematical functions, already implemented and many were exposed 
+- Solving Eqn with SM: [https://youtu.be/4QZwb_0OOxY?si=PQIay6uKw5XdTxHG]
+    > Introduced to solve function, and how var() functions needs to be created for 
+    working with system of equations
+- 2D Plotting: [ https://youtu.be/z37JqJrjQKk?si=m_NyTJnyKS_XwBFr]
+    > https://doc.sagemath.org/html/en/reference/plotting/sage/plot/plot.html
+- 3D Plotting: [https://youtu.be/HFuGxht7U40?si=8dc5MSdVLVOaBsuM]
+- Intro Calculus: [https://youtu.be/9koA58jtiFA?si=PglqZNY393LeJtZU]
+- Intro Calculus part 2: [https://youtu.be/S7Jqrs4c-Iw?si=DjyQnJXW0OX_mi0e]
+- Appln of Calculus: [https://youtu.be/hzopk5mTC8c?si=8pmXd2RW2iKeAHOw]
+- Integration Calculus: [https://youtu.be/i_qYne4jpfM?si=HNNkzKUCRKoDwtVc]
+- Improper Integration: [https://youtu.be/7zEuZ5eaAgg?si=Chsa9JkQQqRdiHqh]
+- Appln of Integration: [https://youtu.be/c3y42TasXd0?si=SC6nU7iFNt_HVULn] 
