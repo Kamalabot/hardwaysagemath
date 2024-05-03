@@ -58,8 +58,16 @@ Jumping ahead to SageMath install, [4 videos are skipped, that are related to ma
     working with system of equations
 - 2D Plotting: [ https://youtu.be/z37JqJrjQKk?si=m_NyTJnyKS_XwBFr]
     > https://doc.sagemath.org/html/en/reference/plotting/sage/plot/plot.html
+    > Interesting plots were presented, and documented.
+    > Know how on math is still a requirement, else these eqn will not make sense.
 - 3D Plotting: [https://youtu.be/HFuGxht7U40?si=8dc5MSdVLVOaBsuM]
+    > https://doc.sagemath.org/html/en/reference/plot3d/index.html
+    > Surface of Revolution is implemented with revolution_plot3d, which rotates the 
+    curves to create 3D obj 
+    > There are interactive plots and contour plots. 
+    > Adding lines and surfaces to the plot, and adding colors is pythonic
 - Intro Calculus: [https://youtu.be/9koA58jtiFA?si=PglqZNY393LeJtZU]
+    > Discussion on limits, and exploring the eqn with plots
 - Intro Calculus part 2: [https://youtu.be/S7Jqrs4c-Iw?si=DjyQnJXW0OX_mi0e]
 - Appln of Calculus: [https://youtu.be/hzopk5mTC8c?si=8pmXd2RW2iKeAHOw]
 - Integration Calculus: [https://youtu.be/i_qYne4jpfM?si=HNNkzKUCRKoDwtVc]
