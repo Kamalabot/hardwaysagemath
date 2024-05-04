@@ -68,6 +68,9 @@ Jumping ahead to SageMath install, [4 videos are skipped, that are related to ma
     > Adding lines and surfaces to the plot, and adding colors is pythonic
 - Intro Calculus: [https://youtu.be/9koA58jtiFA?si=PglqZNY393LeJtZU]
     > Discussion on limits, and exploring the eqn with plots
+
+04/05
+
 - Intro Calculus part 2: [https://youtu.be/S7Jqrs4c-Iw?si=DjyQnJXW0OX_mi0e]
 - Appln of Calculus: [https://youtu.be/hzopk5mTC8c?si=8pmXd2RW2iKeAHOw]
 - Integration Calculus: [https://youtu.be/i_qYne4jpfM?si=HNNkzKUCRKoDwtVc]
